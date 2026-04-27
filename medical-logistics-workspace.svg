@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Medical logistics and procurement workspace</title>
+  <desc id="desc">A professional healthcare procurement workspace with supply boxes, medical inventory, a laptop dashboard, and logistics documents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eaf8fb"/>
+      <stop offset="0.45" stop-color="#f8fbfd"/>
+      <stop offset="1" stop-color="#d7edf4"/>
+    </linearGradient>
+    <linearGradient id="table" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a1a2f"/>
+      <stop offset="1" stop-color="#143d64"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#123a5f"/>
+      <stop offset="1" stop-color="#07131f"/>
+    </linearGradient>
+    <filter id="shadow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#07131f" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="1010" cy="120" r="210" fill="#5dc7d9" opacity="0.18"/>
+  <circle cx="145" cy="728" r="240" fill="#28b78d" opacity="0.12"/>
+  <rect x="76" y="112" width="1048" height="606" rx="8" fill="#ffffff" filter="url(#shadow)"/>
+  <rect x="76" y="112" width="1048" height="92" rx="8" fill="#0a1a2f"/>
+  <rect x="76" y="190" width="1048" height="14" fill="#143d64"/>
+  <text x="118" y="169" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="3">MEDICAL PROCUREMENT CONTROL DESK</text>
+  <g opacity="0.96">
+    <rect x="116" y="248" width="284" height="180" rx="8" fill="#eff6fb" stroke="#d7e5ee" stroke-width="3"/>
+    <rect x="146" y="280" width="224" height="24" rx="12" fill="#1f6fb8"/>
+    <rect x="146" y="326" width="176" height="16" rx="8" fill="#9fb4c6"/>
+    <rect x="146" y="364" width="198" height="16" rx="8" fill="#9fb4c6"/>
+    <rect x="146" y="402" width="132" height="16" rx="8" fill="#28b78d"/>
+    <path d="M340 384h30v30h-30zM355 369v60M325 399h60" stroke="#1f6fb8" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="458" y="247" width="424" height="260" rx="8" fill="#dbe8f1"/>
+    <rect x="482" y="271" width="376" height="206" rx="8" fill="url(#screen)"/>
+    <rect x="526" y="316" width="116" height="18" rx="9" fill="#5dc7d9"/>
+    <rect x="526" y="354" width="286" height="12" rx="6" fill="#d7e5ee" opacity="0.8"/>
+    <rect x="526" y="386" width="226" height="12" rx="6" fill="#d7e5ee" opacity="0.58"/>
+    <rect x="526" y="428" width="64" height="28" rx="6" fill="#28b78d"/>
+    <rect x="610" y="428" width="64" height="28" rx="6" fill="#1f6fb8"/>
+    <rect x="694" y="428" width="64" height="28" rx="6" fill="#c8a24a"/>
+    <path d="M792 320l24 24-24 24-24-24z" fill="#28b78d"/>
+  </g>
+  <g>
+    <rect x="924" y="248" width="158" height="222" rx="8" fill="#f7fafc" stroke="#d7e5ee" stroke-width="3"/>
+    <rect x="950" y="284" width="106" height="14" rx="7" fill="#1f6fb8"/>
+    <rect x="950" y="326" width="86" height="12" rx="6" fill="#9fb4c6"/>
+    <rect x="950" y="358" width="106" height="12" rx="6" fill="#9fb4c6"/>
+    <rect x="950" y="390" width="72" height="12" rx="6" fill="#9fb4c6"/>
+    <path d="M956 438l18 18 44-52" fill="none" stroke="#28b78d" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="76" y="596" width="1048" height="122" fill="url(#table)"/>
+  <g filter="url(#shadow)">
+    <path d="M160 508h184l44 88H116z" fill="#d9b76a"/>
+    <path d="M160 508l-44 88h272l-44-88z" fill="#c8a24a"/>
+    <path d="M116 596h272v112H116z" fill="#b58d3a"/>
+    <path d="M252 508v200" stroke="#f6df9b" stroke-width="8"/>
+    <text x="158" y="666" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="900">STERILE</text>
+  </g>
+  <g filter="url(#shadow)">
+    <path d="M770 540h196l48 56H722z" fill="#e9f3f8"/>
+    <path d="M722 596h292v112H722z" fill="#d9e8f0"/>
+    <rect x="760" y="628" width="90" height="18" rx="9" fill="#1f6fb8"/>
+    <rect x="760" y="666" width="150" height="12" rx="6" fill="#7c92a6"/>
+    <path d="M945 638h36v36h-36zM963 620v72M927 656h72" stroke="#28b78d" stroke-width="11" stroke-linecap="round"/>
+  </g>
+  <g>
+    <rect x="470" y="566" width="174" height="114" rx="8" fill="#ffffff" stroke="#d7e5ee" stroke-width="3"/>
+    <rect x="494" y="594" width="126" height="14" rx="7" fill="#1f6fb8"/>
+    <rect x="494" y="630" width="90" height="12" rx="6" fill="#9fb4c6"/>
+    <rect x="494" y="656" width="106" height="12" rx="6" fill="#9fb4c6"/>
+    <circle cx="650" cy="628" r="42" fill="#ffffff" stroke="#28b78d" stroke-width="12"/>
+    <path d="M650 586v-38M650 670v42M608 628h-42M734 628h-42" stroke="#28b78d" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <path d="M122 744h956" stroke="#d7e5ee" stroke-width="4" stroke-linecap="round"/>
+  <text x="120" y="808" fill="#0a1a2f" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800">Inventory checks • supplier quotes • delivery coordination</text>
+</svg>
