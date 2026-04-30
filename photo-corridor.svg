@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000"></stop>
+      <stop offset="50%" stop-color="#0a1620"></stop>
+      <stop offset="100%" stop-color="#06121c"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg4)"></rect>
+  
+  <polygon points="400,200 1520,200 1280,1000 640,1000" fill="#0c1a22"></polygon>
+  <polygon points="400,200 640,1000 0,1080 0,200" fill="#06121c"></polygon>
+  <polygon points="1520,200 1880,200 1920,1080 1280,1000" fill="#06121c"></polygon>
+  
+  <line x1="640" y1="1000" x2="1280" y2="1000" stroke="#1a2a32" stroke-width="1"></line>
+  <line x1="700" y1="800" x2="1220" y2="800" stroke="#1a2a32" stroke-width="1" opacity="0.6"></line>
+  <line x1="760" y1="640" x2="1160" y2="640" stroke="#1a2a32" stroke-width="1" opacity="0.4"></line>
+  <line x1="820" y1="500" x2="1100" y2="500" stroke="#1a2a32" stroke-width="1" opacity="0.3"></line>
+  
+  <rect x="800" y="280" width="320" height="14" fill="#e6f0f4" opacity="0.6"></rect>
+  <rect x="840" y="350" width="240" height="10" fill="#e6f0f4" opacity="0.4"></rect>
+  <rect x="880" y="410" width="160" height="8" fill="#e6f0f4" opacity="0.3"></rect>
+  
+  <rect x="380" y="380" width="80" height="280" fill="#0a1620" stroke="#1a2a32" stroke-width="1"></rect>
+  <rect x="1460" y="380" width="80" height="280" fill="#0a1620" stroke="#1a2a32" stroke-width="1"></rect>
+  <rect x="500" y="450" width="60" height="200" fill="#0a1620" stroke="#1a2a32" stroke-width="1" opacity="0.7"></rect>
+  <rect x="1360" y="450" width="60" height="200" fill="#0a1620" stroke="#1a2a32" stroke-width="1" opacity="0.7"></rect>
+  
+  <rect x="468" y="430" width="20" height="8" fill="#00b9d6" opacity="0.7"></rect>
+  <rect x="1432" y="430" width="20" height="8" fill="#00b9d6" opacity="0.7"></rect>
+  
+  <ellipse cx="960" cy="640" rx="8" ry="3" fill="#000"></ellipse>
+  <rect x="954" y="600" width="12" height="40" fill="#1a2a32"></rect>
+  <circle cx="960" cy="595" r="6" fill="#1a2a32"></circle>
+  
+  <radialGradient id="vig2" cx="0.5" cy="0.5" r="0.7">
+    <stop offset="55%" stop-color="#000" stop-opacity="0"></stop>
+    <stop offset="100%" stop-color="#000" stop-opacity="0.85"></stop>
+  </radialGradient>
+  <rect width="1920" height="1080" fill="url(#vig2)"></rect>
+</svg>
