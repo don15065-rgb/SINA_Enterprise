@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1014"></stop>
+      <stop offset="100%" stop-color="#000"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg5)"></rect>
+  
+  <g opacity="0.85">
+    <g transform="translate(180, 240)">
+      <rect width="280" height="380" fill="#0d1620" stroke="#1a2a32" stroke-width="1"></rect>
+      <rect x="20" y="20" width="240" height="80" fill="#00b9d6" opacity="0.4"></rect>
+      <rect x="20" y="120" width="240" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="140" width="180" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="160" width="200" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="320" width="240" height="40" fill="#0a3a6b" opacity="0.5"></rect>
+    </g>
+    <g transform="translate(500, 200)">
+      <rect width="280" height="420" fill="#0d1620" stroke="#1a2a32" stroke-width="1"></rect>
+      <rect x="20" y="20" width="240" height="80" fill="#2ad3a4" opacity="0.4"></rect>
+      <rect x="20" y="120" width="240" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="140" width="180" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="160" width="200" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="360" width="240" height="40" fill="#1a2a32"></rect>
+    </g>
+    <g transform="translate(820, 260)">
+      <rect width="280" height="360" fill="#0d1620" stroke="#1a2a32" stroke-width="1"></rect>
+      <rect x="20" y="20" width="240" height="80" fill="#0653b6" opacity="0.5"></rect>
+      <rect x="20" y="120" width="240" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="140" width="180" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="160" width="200" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="300" width="240" height="40" fill="#1a2a32"></rect>
+    </g>
+    <g transform="translate(1140, 220)">
+      <rect width="280" height="400" fill="#0d1620" stroke="#1a2a32" stroke-width="1"></rect>
+      <rect x="20" y="20" width="240" height="80" fill="#00b9d6" opacity="0.3"></rect>
+      <rect x="20" y="120" width="240" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="140" width="180" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="160" width="200" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="340" width="240" height="40" fill="#1a2a32"></rect>
+    </g>
+    <g transform="translate(1460, 250)">
+      <rect width="280" height="370" fill="#0d1620" stroke="#1a2a32" stroke-width="1"></rect>
+      <rect x="20" y="20" width="240" height="80" fill="#2ad3a4" opacity="0.3"></rect>
+      <rect x="20" y="120" width="240" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="140" width="180" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="160" width="200" height="6" fill="#1a2a32"></rect>
+      <rect x="20" y="310" width="240" height="40" fill="#1a2a32"></rect>
+    </g>
+  </g>
+  
+  <rect x="0" y="640" width="1920" height="6" fill="#1a2a32"></rect>
+  <rect x="0" y="646" width="1920" height="200" fill="#06121c"></rect>
+  
+  <radialGradient id="vig3" cx="0.5" cy="0.45" r="0.6">
+    <stop offset="55%" stop-color="#000" stop-opacity="0"></stop>
+    <stop offset="100%" stop-color="#000" stop-opacity="0.8"></stop>
+  </radialGradient>
+  <rect width="1920" height="1080" fill="url(#vig3)"></rect>
+</svg>
