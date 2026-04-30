@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1014"></stop>
+      <stop offset="100%" stop-color="#000"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg2)"></rect>
+  
+  <g opacity="0.85">
+    
+    <polygon points="0,200 0,880 380,780 380,300" fill="#0d161c"></polygon>
+    <line x1="0" y1="350" x2="380" y2="380" stroke="#1a2a32" stroke-width="2"></line>
+    <line x1="0" y1="500" x2="380" y2="510" stroke="#1a2a32" stroke-width="2"></line>
+    <line x1="0" y1="650" x2="380" y2="640" stroke="#1a2a32" stroke-width="2"></line>
+    <line x1="0" y1="800" x2="380" y2="770" stroke="#1a2a32" stroke-width="2"></line>
+    
+    <polygon points="1920,200 1920,880 1540,780 1540,300" fill="#0d161c"></polygon>
+    <line x1="1540" y1="380" x2="1920" y2="350" stroke="#1a2a32" stroke-width="2"></line>
+    <line x1="1540" y1="510" x2="1920" y2="500" stroke="#1a2a32" stroke-width="2"></line>
+    <line x1="1540" y1="640" x2="1920" y2="650" stroke="#1a2a32" stroke-width="2"></line>
+    <line x1="1540" y1="770" x2="1920" y2="800" stroke="#1a2a32" stroke-width="2"></line>
+  </g>
+  
+  <g opacity="0.5">
+    <rect x="40" y="320" width="120" height="50" fill="#1a2a32"></rect>
+    <rect x="180" y="320" width="100" height="50" fill="#202d34"></rect>
+    <rect x="40" y="470" width="100" height="50" fill="#1a2a32"></rect>
+    <rect x="160" y="470" width="120" height="50" fill="#202d34"></rect>
+    <rect x="1620" y="320" width="120" height="50" fill="#1a2a32"></rect>
+    <rect x="1760" y="320" width="100" height="50" fill="#202d34"></rect>
+    <rect x="1620" y="470" width="100" height="50" fill="#202d34"></rect>
+    <rect x="1740" y="470" width="120" height="50" fill="#1a2a32"></rect>
+  </g>
+  
+  <polygon points="380,780 1540,780 1320,1080 600,1080" fill="#06090c"></polygon>
+  <line x1="380" y1="780" x2="600" y2="1080" stroke="#1a2a32" stroke-width="1" opacity="0.4"></line>
+  <line x1="1540" y1="780" x2="1320" y2="1080" stroke="#1a2a32" stroke-width="1" opacity="0.4"></line>
+  
+  <rect x="700" y="80" width="520" height="8" fill="#00b9d6" opacity="0.6"></rect>
+  <ellipse cx="960" cy="180" rx="380" ry="80" fill="#00b9d6" opacity="0.04"></ellipse>
+  
+  <ellipse cx="960" cy="780" rx="14" ry="6" fill="#000"></ellipse>
+  <rect x="952" y="700" width="16" height="80" fill="#0a1014"></rect>
+  <circle cx="960" cy="690" r="10" fill="#0a1014"></circle>
+</svg>
